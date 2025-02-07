@@ -1,0 +1,82 @@
+.testimonial-wrapper{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin:  auto;
+    background-image: url("../Assests/dots-background.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-top: 50px;
+    gap: 30px;
+}
+
+.testimonial-card-wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    max-width: 500px;
+    height: 400px;
+    margin: 0px 20px;
+    position: relative;
+}
+
+
+
+
+
+.inactive{
+    width: 400px;
+}
+
+
+.description{
+    text-align: center;
+    font-size: .8em;
+    width: calc(100% - 100px);
+}
+
+.inactive .description{
+    width:250px;
+    font-size: .6em;
+
+}
+.active-image{
+    position: absolute;
+    top: 20px;
+    left: 0;
+    width: 100%;
+    height: calc(100% - 20px);
+    z-index: -123;
+}
+.active-white{
+    width: 100%;
+    z-index: 1234;
+}
+.active-orange{
+    width: 100%;
+
+}
+
+
+
+
+
+
+
+.testimonial-heading-wrapper h1{
+    font-size: 1.5em;
+}
+
+@media (min-width: 800px) {
+    .testimonial-heading-wrapper h1{
+        font-size: 2.5em;
+    }
+}
+
+
+
+
+

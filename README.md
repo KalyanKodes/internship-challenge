@@ -1,70 +1,60 @@
-# Getting Started with Create React App
+# Internship Challenge by @mohitnarra
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🔥 **The Task:** Convert the given UI design into pixel-perfect code using React.js!
 
-## Available Scripts
+## 🚀 Project Overview
+This project is a submission for the **Internship Challenge** hosted by Instagram channel [@mohitnarra](https://www.instagram.com/mohitnarra/). The goal is to convert the provided Figma design into a fully functional and responsive web page.
 
-In the project directory, you can run:
+### 👨‍💻 Participant
+This challenge is accepted and completed by **Kalyan Kumar**.
 
-### `npm start`
+## 🛠 Tech Stack
+- **React.js** - For building UI components
+- **CSS** - For styling
+- **FontAwesome** - For icons
+- **gh-pages** - For deployment
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 📜 Features
+✅ Pixel-perfect UI implementation  
+✅ Fully responsive design  
+✅ Smooth animations and transitions  
+✅ Deployed using GitHub Pages
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🔧 Installation & Setup
+Follow these steps to run the project locally:
 
-### `npm test`
+```sh
+# Clone the repository
+git clone https://github.com/KalyanKodes/internship-challenge.git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Navigate into the project directory
+cd internship-challenge
 
-### `npm run build`
+# Install dependencies
+npm install
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Start the development server
+npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Deployment
+This project is deployed using **gh-pages**. To deploy your own version:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+```sh
+npm run build
+npm run deploy
+```
 
-### `npm run eject`
+## 📩 Submission Guidelines
+To participate in the challenge, follow these steps:
+1️⃣ Use the provided [Figma file](https://tinyurl.com/34nhjxm9) for reference.  
+2️⃣ Code the design using any language (React.js used in this project).  
+3️⃣ Submit your work before **10th Feb 2025**.  
+4️⃣ Send the GitHub repository link to [@mohitnarra](https://www.instagram.com/mohitnarra/).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 📄 License
+This project is created as part of the **Internship Challenge** and follows the rules set by the challenge host.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🔥 **Best of luck to all participants!**

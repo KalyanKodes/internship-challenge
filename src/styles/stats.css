@@ -1,0 +1,26 @@
+.stats-hero-wrapper{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 30px;
+    flex-wrap: wrap;
+    background-color: var(--bg-primary);
+    padding: 10px 20px;
+}
+
+.stats-card-wrapper{
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    max-width: 270px;
+    gap: 20px;
+    flex: 1 270px;
+    
+}
+
+.stats-card-wrapper div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

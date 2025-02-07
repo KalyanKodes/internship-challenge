@@ -1,0 +1,59 @@
+.who-are-we-hero{
+    background-image: url('../Assests/dots-background.png');
+    background-repeat: no-repeat;
+    padding: 60px;
+    padding-left: 90px;
+    padding-top: 90px;
+    padding-bottom: 70px;
+    display: flex;
+    gap: 30px;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    position: relative;
+}
+
+.who-are-we-hero::before{
+    content: "";
+    background-image: url("../Assests/Star.png");
+    width: 100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.who-are-we-hero::after{
+    content: "";
+    width: 180px;
+    height: 180px;
+    scale: .8;
+    background-position: top;
+    background-image: url("../Assests/pencil.png");
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 100%;
+    transform: translateY(-110%);
+    right: -15px;
+}
+
+.who-are-we-hero p{
+    font-size: 20px;
+    max-width: 95%;
+}
+
+@media (max-width: 700px){
+    .who-are-we-hero{
+        padding: 20px;
+    }
+
+    .who-are-we-hero h1, .how-it-works-top h1{
+        font-size: 30px;
+    }
+    .who-are-we-hero p, .how-it-works-top p{
+        font-size: 16px;
+    }
+    .who-are-we-hero::after, .who-are-we-hero::before{
+        display: none;
+    }
+}

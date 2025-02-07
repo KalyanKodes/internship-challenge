@@ -1,0 +1,62 @@
+.enquiry-wrapper{
+    background-color: var(--bg-secondary);
+    padding: 20px;
+    
+}
+
+.enquiry-image-wrapper{
+    display: none;
+}
+
+.input-wrapper{
+    max-width: 100%;
+}
+
+.input-wrapper h3{
+    width: fit-content;
+}
+
+.input-fields-wrapper input, .input-fields-wrapper textarea{
+    width: 100%;
+    padding: 15px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    margin-top: 10px;
+    background-color: #FFFFFF;
+}
+
+.input-fields-wrapper label{
+    color: var(--bg-primary);
+    font-weight: 600;
+}
+
+.submit-wrapper button{
+    padding: 10px 25px;
+    font-size: 1.2em;
+    font-weight: 600;
+    border-radius: 30px;
+    border: none;
+    background-color: var(--bg-primary);
+    color: #FFF;
+}
+
+@media (min-width: 1000px) {
+    .input-wrapper{
+        max-width: 500px;
+        flex: 500px;
+    }
+    .enquiry-image-wrapper{
+        display: block;
+        width: 600px;
+    }
+    .enquiry-wrapper{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        gap: 100px;
+    }
+    .enquiry-image-wrapper img{
+        width: 100%;
+    }
+}
