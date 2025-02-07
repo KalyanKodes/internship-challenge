@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/internship-challenge/static/css/main.24b05e9e.css",
+    "main.js": "/internship-challenge/static/js/main.d666d780.js",
+    "static/media/enquiry-image.png": "/internship-challenge/static/media/enquiry-image.e57bd22cab36dfe3d8e5.png",
+    "static/media/backdrop.png": "/internship-challenge/static/media/backdrop.8c0220bbf95f191c81a3.png",
+    "static/media/banner-wave.png": "/internship-challenge/static/media/banner-wave.9b50d00f35902fe5bdd3.png",
+    "static/media/topCategories.png": "/internship-challenge/static/media/topCategories.65b9a039dd4cc85c258f.png",
+    "static/media/dots-background.png": "/internship-challenge/static/media/dots-background.948a8e45825eaff83c52.png",
+    "static/media/OBJECTS.png": "/internship-challenge/static/media/OBJECTS.3e916a049e79d4e07fb3.png",
+    "static/media/features.png": "/internship-challenge/static/media/features.47e486a47c25f8c0b56e.png",
+    "static/media/student-1.png": "/internship-challenge/static/media/student-1.10d964a7565d3d2e7ad6.png",
+    "static/media/Group 1261153599.svg": "/internship-challenge/static/media/Group 1261153599.7691494b1fee92ce067597d607617a03.svg",
+    "static/media/testimonial-bg.png": "/internship-challenge/static/media/testimonial-bg.af8d6d10c205b9597cd9.png",
+    "static/media/pencil.png": "/internship-challenge/static/media/pencil.930890114721fb12e056.png",
+    "static/media/banner-circle.png": "/internship-challenge/static/media/banner-circle.b2051142d3e1e7f72111.png",
+    "static/media/student-3.png": "/internship-challenge/static/media/student-3.fc7f2cc09ea2ce9578bf.png",
+    "static/media/Group 1261153598.svg": "/internship-challenge/static/media/Group 1261153598.7a3434ceb1a4e9750334e089c49f62ed.svg",
+    "static/media/student-2.png": "/internship-challenge/static/media/student-2.a8982222fb64ce9419b2.png",
+    "static/media/Group 1261153597.svg": "/internship-challenge/static/media/Group 1261153597.28a5cad8665eec03fe647682f8f61952.svg",
+    "static/media/login.svg": "/internship-challenge/static/media/login.1b9fd0438d6134657a85968888b79427.svg",
+    "index.html": "/internship-challenge/index.html",
+    "main.24b05e9e.css.map": "/internship-challenge/static/css/main.24b05e9e.css.map",
+    "main.d666d780.js.map": "/internship-challenge/static/js/main.d666d780.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24b05e9e.css",
+    "static/js/main.d666d780.js"
+  ]
+}
